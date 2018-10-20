@@ -1,0 +1,58 @@
+
+body {
+    margin: 0px;
+}
+
+/* Navbar */;
+
+.navbar {
+    list-style: none;
+    padding: 0px;
+    background-color: #444;
+    text align: center;
+}
+
+.navbar li { 
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    padding: 14px 16px;
+    color: rgb(77, 15, 221);
+
+}
+
+.navbar li a:hover {
+    background-color
+} */
+
+/* Header */
+#header {
+    text-align: left;
+    color: purple;
+}
+p {
+    color:fuchsia
+
+}
+h1 { 
+    text-align: center;
+    color: violet
+}
+
+#Skyline {
+    height: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    padding:: 20px 20px;
+    background-color: pink;
+    color: black;
+}
